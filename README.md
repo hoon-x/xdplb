@@ -16,7 +16,7 @@ It implements the DSR (Direct Server Return) pattern, processing packets at the 
 ## Demo
 Real-time traffic monitoring dashboard in debug mode.
 <p align="center">
-  <img src="./docs/images/demo.gif" width="600"/>
+  <img src="./docs/images/demo.gif" width="1000"/>
   <br>
 </p>
 
